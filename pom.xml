@@ -24,3 +24,6 @@
     </build>
 
 </project>
+<configuration>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
+</configuration>
